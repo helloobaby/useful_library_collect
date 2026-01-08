@@ -6,19 +6,7 @@
 * [portable-file-dialogs](https://github.com/samhocevar/portable-file-dialogs)  
 * [argparse](https://github.com/jamolnng/argparse)  
 * [llvmlite](https://github.com/numba/llvmlite)  
-* [flare-vm](https://github.com/mandiant/commando-vm)  
-* [aqtinstall](https://github.com/miurahr/aqtinstall)  
-* [pe-parse](https://github.com/trailofbits/pe-parse)  
-* [pefile](https://github.com/erocarrera/pefile)
-* [skCrypter](https://github.com/skadro-official/skCrypter) 
-* [masm_shc](https://github.com/hasherezade/masm_shc)  
-* [utfcpp](https://github.com/nemtrif/utfcpp)  
-* [NumCpp](https://github.com/dpilger26/NumCpp)  
-* [magic_enum](https://github.com/Neargye/magic_enum)
-* [Sig](https://github.com/HoShiMin/Sig.git)  
-* [memscan](https://github.com/cristeigabriel/memscan.git)  
-
-C/C++ 单元测试
+* [fla
 ----
 * [microunit](https://github.com/smiranda/microunit)  
 * [gtest](https://github.com/google/googletest)
